@@ -13,8 +13,8 @@ const Historial: React.FC = () => {
   const eventosAnteriores: EventoAnterior[] = [
     {
       fecha: 'Octubre 2025',
-      titulo: 'Kick-off: Forensics en minecraft + Explorando Zero Days en macOS CVE-2026-24277',
-      descripcion: 'Primera edición cerrada con los fundadores para cerrar programacion y tocar temas como forense en el famoso videojuego "minecraft" y el creciente mundo de los Zero Days en macOS usando como referencia CVE-2026-24277 y sus intentos de replicacion',
+      titulo: 'Kick-off: Forensics en minecraft + Explorando Zero Days en macOS CVE-2025-24277',
+      descripcion: 'Primera edición cerrada con los fundadores para cerrar programacion y tocar temas como forense en el famoso videojuego "minecraft" y el creciente mundo de los Zero Days en macOS usando como referencia CVE-2025-24277 y sus intentos de replicacion',
       asistentes: 7
     }
   ];
