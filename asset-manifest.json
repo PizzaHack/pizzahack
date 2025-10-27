@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/pizzahack/static/css/main.a9877461.css",
-    "main.js": "/pizzahack/static/js/main.8e66d85c.js",
+    "main.css": "/pizzahack/static/css/main.2959aac0.css",
+    "main.js": "/pizzahack/static/js/main.85d8850d.js",
     "static/js/453.54a4bf33.chunk.js": "/pizzahack/static/js/453.54a4bf33.chunk.js",
+    "static/media/logo.png": "/pizzahack/static/media/logo.2806e899341f54aa6bd3.png",
     "index.html": "/pizzahack/index.html",
-    "main.a9877461.css.map": "/pizzahack/static/css/main.a9877461.css.map",
-    "main.8e66d85c.js.map": "/pizzahack/static/js/main.8e66d85c.js.map",
+    "main.2959aac0.css.map": "/pizzahack/static/css/main.2959aac0.css.map",
+    "main.85d8850d.js.map": "/pizzahack/static/js/main.85d8850d.js.map",
     "453.54a4bf33.chunk.js.map": "/pizzahack/static/js/453.54a4bf33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9877461.css",
-    "static/js/main.8e66d85c.js"
+    "static/css/main.2959aac0.css",
+    "static/js/main.85d8850d.js"
   ]
 }
