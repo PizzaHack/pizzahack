@@ -10,12 +10,12 @@ interface Evento {
 
 const Eventos: React.FC = () => {
   const eventos: Evento[] = [
-    { fecha: '21-Nov-2024', lugar: 'Por determinar', estado: 'proximo' },
-    { fecha: '19-Dic-2024', lugar: 'Pecera del Edificio E', estado: 'programado' },
-    { fecha: '23-Ene-2025', lugar: 'Pecera del Edificio E', estado: 'programado' },
-    { fecha: '20-Feb-2025', lugar: 'Pecera del Edificio E', estado: 'programado' },
-    { fecha: '20-Mar-2025', lugar: 'Pecera del Edificio E', estado: 'programado' },
-    { fecha: '24-Abr-2025', lugar: 'Pecera del Edificio E', estado: 'programado' }
+    { fecha: '21-Nov-2025', lugar: 'Por determinar', estado: 'proximo' },
+    { fecha: '19-Dic-2025', lugar: 'Pecera del Edificio E', estado: 'programado' },
+    { fecha: '23-Ene-2026', lugar: 'Pecera del Edificio E', estado: 'programado' },
+    { fecha: '20-Feb-2026', lugar: 'Pecera del Edificio E', estado: 'programado' },
+    { fecha: '20-Mar-2026', lugar: 'Pecera del Edificio E', estado: 'programado' },
+    { fecha: '24-Abr-2026', lugar: 'Pecera del Edificio E', estado: 'programado' }
   ];
 
   return (

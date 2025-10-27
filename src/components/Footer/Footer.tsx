@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
           Creado por antiguos alumnos de la UFV para la comunidad de ciberseguridad, totalmente abierto.
         </p>
         <p className="footer__copy">
-          © 2025 Pizza Hack. Todos los derechos reservados.
+          © 2026 Pizza Hack. Todos los derechos reservados.
         </p>
       </div>
     </footer>
