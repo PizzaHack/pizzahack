@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pizzahack/static/css/main.a9877461.css",
+    "main.js": "/pizzahack/static/js/main.8e66d85c.js",
+    "static/js/453.54a4bf33.chunk.js": "/pizzahack/static/js/453.54a4bf33.chunk.js",
+    "index.html": "/pizzahack/index.html",
+    "main.a9877461.css.map": "/pizzahack/static/css/main.a9877461.css.map",
+    "main.8e66d85c.js.map": "/pizzahack/static/js/main.8e66d85c.js.map",
+    "453.54a4bf33.chunk.js.map": "/pizzahack/static/js/453.54a4bf33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9877461.css",
+    "static/js/main.8e66d85c.js"
+  ]
+}
