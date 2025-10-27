@@ -1,0 +1,66 @@
+.inscripcion {
+  padding: 6rem 2rem;
+  background-color: #0a0e27;
+}
+
+.inscripcion__content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.inscripcion__title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #ecf0f1;
+}
+
+.inscripcion__box {
+  background-color: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 3rem;
+  text-align: center;
+}
+
+.inscripcion__text {
+  font-size: 1.125rem;
+  color: #95a5a6;
+  margin-bottom: 2rem;
+}
+
+.inscripcion__placeholder {
+  background-color: rgba(255, 255, 255, 0.02);
+  border: 2px dashed rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 3rem;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.inscripcion__placeholder-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+.inscripcion__placeholder-text {
+  color: #7f8c8d;
+  font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+  .inscripcion__title {
+    font-size: 2rem;
+  }
+  
+  .inscripcion__box {
+    padding: 2rem;
+  }
+}
