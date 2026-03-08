@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pizzahack/static/css/main.c6c3073e.css",
-    "main.js": "/pizzahack/static/js/main.ee03abb8.js",
+    "main.css": "/pizzahack/static/css/main.d4570424.css",
+    "main.js": "/pizzahack/static/js/main.8183fe81.js",
     "static/js/453.54a4bf33.chunk.js": "/pizzahack/static/js/453.54a4bf33.chunk.js",
     "static/media/cyber.png": "/pizzahack/static/media/cyber.a1ab48bd21ac4d21f728.png",
     "static/media/logo.png": "/pizzahack/static/media/logo.2806e899341f54aa6bd3.png",
     "static/media/cyberneg.png": "/pizzahack/static/media/cyberneg.28387ef5e9bc20e0bc2e.png",
     "static/media/cyber_ufv_logo.png": "/pizzahack/static/media/cyber_ufv_logo.e4f42e33f6a03a04f1da.png",
     "index.html": "/pizzahack/index.html",
-    "main.c6c3073e.css.map": "/pizzahack/static/css/main.c6c3073e.css.map",
-    "main.ee03abb8.js.map": "/pizzahack/static/js/main.ee03abb8.js.map",
+    "main.d4570424.css.map": "/pizzahack/static/css/main.d4570424.css.map",
+    "main.8183fe81.js.map": "/pizzahack/static/js/main.8183fe81.js.map",
     "453.54a4bf33.chunk.js.map": "/pizzahack/static/js/453.54a4bf33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6c3073e.css",
-    "static/js/main.ee03abb8.js"
+    "static/css/main.d4570424.css",
+    "static/js/main.8183fe81.js"
   ]
 }
